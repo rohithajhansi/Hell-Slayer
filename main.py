@@ -4,6 +4,7 @@ from Challanges import Challanges
 from Items import items, needed, not_needed
 from demons import DemonBattle
 from chest import open_chest
+
 print(""" __    __   _______  __       __              _______. __          ___   ____    ____  _______ .______      
 |  |  |  | |   ____||  |     |  |            /       ||  |        /   \  \   \  /   / |   ____||   _  \     
 |  |__|  | |  |__   |  |     |  |           |   (----`|  |       /  ^  \  \   \/   /  |  |__   |  |_)  |    
@@ -16,3 +17,4 @@ print(""" __    __   _______  __       __              _______. __          ___ 
 
 
 
+ougfhiuhrtkjhgtjnjk
