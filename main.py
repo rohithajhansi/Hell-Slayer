@@ -18,4 +18,5 @@ print("""
 
 
 
-ougfhiuhrtkjhgtjnjk
+backstory()
+
